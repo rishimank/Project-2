@@ -82,4 +82,4 @@ public class Triangle {
                 String.format("%.3f", surfaceNormal.getK()) + "k>]";
     }
 
-    }
+}
